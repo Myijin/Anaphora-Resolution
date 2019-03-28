@@ -1,5 +1,5 @@
 # Pronoun-Resolution
-- feature.py extract features according to Salience factors and weights in Lappin & Leass:
+- feature.py extract features according to Salience factors in Lappin & Leass:
   * Sentence recency
   * Subject emphasis
   * Existential emphasis
