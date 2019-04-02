@@ -19,4 +19,4 @@ GAP is a gender-balanced dataset containing 8,908 coreference-labeled pairs of (
 | --- | ----------- |
 | CatBoost Classifier | 74.7% |
 | Gradient Boosting Classifier | 74.1% |
-| Best model in [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://arxiv.org/abs/1810.05201) | 66.9% |
+| Model in [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://arxiv.org/abs/1810.05201) | 66.9% |
