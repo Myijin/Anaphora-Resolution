@@ -1,4 +1,4 @@
-# Pronoun-Resolution
+# Anaphora Resolution
 - feature.py extract features according to Salience factors in Lappin & Leass:
   * Sentence recency
   * Subject emphasis
