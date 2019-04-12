@@ -7,6 +7,9 @@
   * Indirect and oblique argument emphasis
   * Non-adverbial emphasis
   * Head noun emphasis
+  and also:
+  * Grammatical Role Parallelism
+  * Distance between pronoun and name
 - CatBoostClassifier.ipynb train and test with CatBoost Classifier.
 - GradientBoostingClassifier.ipynb train and test with Gradient Boosting Classifier.
 - RandomForestClassifier.ipynb train and test with Random Forest Classifier and Extra Trees Classifier
