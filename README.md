@@ -7,6 +7,7 @@
   * Indirect and oblique argument emphasis
   * Non-adverbial emphasis
   * Head noun emphasis
+  
   and also:
   * Grammatical Role Parallelism
   * Distance between pronoun and name
